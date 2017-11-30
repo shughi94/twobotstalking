@@ -41,8 +41,5 @@ while True:
     
     nb = response2.text
 
-
-cout << "result: " << x;
-
 driver1.close()
 driver2.close()
