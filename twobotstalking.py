@@ -41,5 +41,10 @@ while True:
     
     nb = response2.text
 
+
+
+
+
+
 driver1.close()
 driver2.close()
